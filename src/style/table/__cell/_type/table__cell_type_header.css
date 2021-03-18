@@ -1,5 +1,8 @@
 .table__cell_type_header {
-    background-color: rgba(71, 167, 170, 0.514);
-    font-weight: 400;
+    background-color: #a7a7a7;
+    font-weight: 600;
     cursor: pointer;
+    border: none;
+    position: sticky;
+    top: 0;
 }

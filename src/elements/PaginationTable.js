@@ -207,7 +207,7 @@ export default class PaginationTable extends React.Component {
     render() {
         return (
         <div className={'table-container'}>
-        <span>Фильтр</span>
+        <span>Поиск</span>
         <input type='text' className={'table-container'} 
         onInput={(e)=>this._handleFilterInput(e)}></input>
             <div className={'table'}>
