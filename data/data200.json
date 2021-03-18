@@ -1,9 +1,9 @@
 {
 	"cols": [
-		"id",
-		"name",
-		"adress",
-		"description"
+		"Id",
+		"Name",
+		"Adress",
+		"Description"
 	],
 	"data": [
 		[

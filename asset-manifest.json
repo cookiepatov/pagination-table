@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pagination-table/static/css/main.eb7ea8cd.chunk.css",
-    "main.js": "/pagination-table/static/js/main.6c4dc4d2.chunk.js",
-    "main.js.map": "/pagination-table/static/js/main.6c4dc4d2.chunk.js.map",
+    "main.css": "/pagination-table/static/css/main.6564bbdf.chunk.css",
+    "main.js": "/pagination-table/static/js/main.a2693ece.chunk.js",
+    "main.js.map": "/pagination-table/static/js/main.a2693ece.chunk.js.map",
     "runtime-main.js": "/pagination-table/static/js/runtime-main.c6dd7afb.js",
     "runtime-main.js.map": "/pagination-table/static/js/runtime-main.c6dd7afb.js.map",
     "static/js/2.41634316.chunk.js": "/pagination-table/static/js/2.41634316.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.3cacbae5.chunk.js": "/pagination-table/static/js/3.3cacbae5.chunk.js",
     "static/js/3.3cacbae5.chunk.js.map": "/pagination-table/static/js/3.3cacbae5.chunk.js.map",
     "index.html": "/pagination-table/index.html",
-    "static/css/main.eb7ea8cd.chunk.css.map": "/pagination-table/static/css/main.eb7ea8cd.chunk.css.map",
+    "static/css/main.6564bbdf.chunk.css.map": "/pagination-table/static/css/main.6564bbdf.chunk.css.map",
     "static/js/2.41634316.chunk.js.LICENSE.txt": "/pagination-table/static/js/2.41634316.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6dd7afb.js",
     "static/js/2.41634316.chunk.js",
-    "static/css/main.eb7ea8cd.chunk.css",
-    "static/js/main.6c4dc4d2.chunk.js"
+    "static/css/main.6564bbdf.chunk.css",
+    "static/js/main.a2693ece.chunk.js"
   ]
 }
