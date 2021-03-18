@@ -1,0 +1,5 @@
+.table__cell_sort_up::after {
+    content: "";
+    border: 5px solid transparent; 
+    border-bottom: 5px solid black;
+}

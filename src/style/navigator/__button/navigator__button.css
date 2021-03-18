@@ -1,0 +1,7 @@
+.navigator__button {
+    background-color: transparent;
+    border: none;
+    color: steelblue;
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.table {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    max-height: 600px;
+    overflow: auto;
+}
